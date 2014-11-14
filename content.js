@@ -12,5 +12,3 @@ window.addEventListener('message', function (event) {
   }
   channel.postMessage(event.data);
 });
-
-console.log('pro')
